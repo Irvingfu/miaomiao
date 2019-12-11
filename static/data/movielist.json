@@ -1,0 +1,37 @@
+{
+
+    "data":{
+
+        "movielist":[
+            {
+                "id":1,
+                "title":"大话西游之大圣娶亲",
+                "act":"主演：周星驰 朱茵 吴孟达 罗家英 ",
+                "img_url":"../../src/public/img/dashengquqi.jpg"
+            },
+            {
+                "id":2,
+                "title":"大话西游之月光宝盒",
+                "act":"周星驰 朱茵 吴孟达 莫文蔚 蓝洁瑛 罗家英  ",
+                "img_url":"../../src/public/img/yueguan.jpg"
+            },
+            {
+                "id":3,
+                "title":"人再囧途之泰囧",
+                "act":"主演：徐峥 王宝强 黄渤 ",
+                "img_url":"../../src/public/img/jiongtu.jpg"
+            }
+
+
+        ]
+    }
+
+
+
+
+
+
+
+
+
+}
